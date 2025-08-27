@@ -6,9 +6,9 @@ Using SQL, I answered these 10 real-world stakeholder queries by analyzing Atliq
 
 Skills Learned:
 
-Writing SQL queries to solve real business problems.
-Using Joins, Aggregations, CTEs, and Window Functions.
-Applying Date functions for time-based analysis.
-Performing data validation to cross-check outputs.
-Structuring queries for clarity and reusability.
-Presenting findings in a business-friendly format.
+- Writing SQL queries to solve real business problems.
+- Using Joins, Aggregations, CTEs, and Window Functions.
+- Applying Date functions for time-based analysis.
+- Performing data validation to cross-check outputs.
+- Structuring queries for clarity and reusability.
+- Presenting findings in a business-friendly format.
